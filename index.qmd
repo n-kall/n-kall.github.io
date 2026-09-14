@@ -3,6 +3,6 @@
 You are probably looking for one of:
 
 - [priorsense](https://n-kall.github.io/priorsense)
-- [priorDB](https://n-kall.github.io/priorDB)
+- [priorDB](https://arviz-devs.github.io/priorDB/)
 - [sealIPM](https://n-kall.github.io/sealIPM)
 - [StanCon2026 tutorial](https://n-kall.github.io/stancon2026)
