@@ -1,0 +1,10 @@
+---
+title: "Redirecting..."
+format: html
+---
+
+<script>
+window.location.replace("https://mc-stan.org/priorsense");
+</script>
+
+Redirecting...
