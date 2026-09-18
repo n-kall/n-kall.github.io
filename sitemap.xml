@@ -1,15 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://n-kall.github.io/priorDB/index.html</loc>
-    <lastmod>2026-09-15T07:39:42.902Z</lastmod>
-  </url>
-  <url>
-    <loc>https://n-kall.github.io/index.html</loc>
-    <lastmod>2026-09-15T07:39:42.902Z</lastmod>
+    <loc>https://n-kall.github.io/priorsense.html</loc>
+    <lastmod>2026-09-18T11:54:02.229Z</lastmod>
   </url>
   <url>
     <loc>https://n-kall.github.io/priorDB.html</loc>
-    <lastmod>2026-09-15T07:39:42.902Z</lastmod>
+    <lastmod>2026-09-18T11:54:02.229Z</lastmod>
+  </url>
+  <url>
+    <loc>https://n-kall.github.io/index.html</loc>
+    <lastmod>2026-09-18T11:54:02.229Z</lastmod>
+  </url>
+  <url>
+    <loc>https://n-kall.github.io/priorDB/index.html</loc>
+    <lastmod>2026-09-18T11:54:02.229Z</lastmod>
   </url>
 </urlset>
